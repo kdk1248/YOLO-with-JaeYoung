@@ -34,3 +34,5 @@
 <p align="center">
   <i>Made with 🔥 and zero code review</i>
 </p>
+
+나도 뱃지 주세요
